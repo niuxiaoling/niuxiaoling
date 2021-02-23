@@ -1,9 +1,12 @@
 ### Hi  👋
-### 我是前端开发小姐姐
+## 我是前端开发小姐姐
 - 作品：无
 - 热爱分享
 - 微信：_Shirley123
 - 希望成为优秀的前端开发
+
+## 新年汇总 ✨
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liyupi&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 <!--
 **niuxiaoling/niuxiaoling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
