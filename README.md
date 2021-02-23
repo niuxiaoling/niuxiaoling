@@ -1,10 +1,14 @@
-### Hi there 👋
-
+### Hi  👋
+### 我是前端开发小姐姐
+- 作品：无
+- 热爱分享
+- 微信：_Shirley123
+- 希望成为优秀的前端开发
 <!--
 **niuxiaoling/niuxiaoling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-### 我是前端开发小姐姐
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
